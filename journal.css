@@ -1,0 +1,72 @@
+BODY {
+	FONT-SIZE: 13px; BACKGROUND-IMAGE: url(../images/bodybackground.png); FONT-FAMILY: Arial
+}
+#thepage {
+	BORDER-RIGHT: silver 1px solid; BORDER-TOP: silver 1px solid; BORDER-LEFT: silver 1px solid; WIDTH: 800px; BORDER-BOTTOM: silver 1px solid; BACKGROUND-COLOR: white
+}
+#header {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND-IMAGE: url(../images/background.jpg); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BORDER-BOTTOM: silver 1px solid; TEXT-ALIGN: right
+}
+#header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 40px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-STYLE: italic
+}
+#header P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#menu {
+	FLOAT: left; WIDTH: 130px
+}
+#menu A {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; PADDING-BOTTOM: 7px; COLOR: #4d9fe6; PADDING-TOP: 7px; BORDER-BOTTOM: silver 1px solid; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+#menu A:hover {
+	COLOR: white; BACKGROUND-COLOR: #4d9fe6
+}
+#print {
+	FLOAT: right
+}
+#content {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; MIN-HEIGHT: 400px; PADDING-BOTTOM: 10px; MARGIN-LEFT: 130px; BORDER-LEFT: silver 1px solid; PADDING-TOP: 10px; TEXT-ALIGN: justify; _height: 400px
+}
+#content H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 25px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; FONT-STYLE: italic
+}
+#content H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; BORDER-BOTTOM: silver 1px solid
+}
+#content H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px; PADDING-TOP: 0px; FONT-STYLE: italic
+}
+#content H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-STYLE: italic
+}
+#content P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-TOP: 0px
+}
+#content A {
+	COLOR: #4d9fe6; TEXT-DECORATION: none
+}
+#content A:hover {
+	TEXT-DECORATION: underline
+}
+#content TABLE {
+	FONT-SIZE: 13px; MARGIN: 10px 0px; BORDER-COLLAPSE: collapse
+}
+#content TD {
+	BORDER-RIGHT: silver 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: silver 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: silver 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: silver 1px solid
+}
+#content TH {
+	BORDER-RIGHT: silver 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: silver 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: silver 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: silver 1px solid; BACKGROUND-COLOR: #eee
+}
+#footer {
+	PADDING-RIGHT: 10px; BORDER-TOP: silver 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#footer IMG {
+	MARGIN: 0px 5px
+}
+/* .error {
+	
+} */
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
